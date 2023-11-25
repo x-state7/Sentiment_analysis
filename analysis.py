@@ -1,3 +1,4 @@
+#this code will take the text as an input from a text file and give the percentages of positive and negative content
 #importing the necessary modules
 import vaderSentiment.vaderSentiment as vs
 import matplotlib.pyplot as plt
